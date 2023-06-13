@@ -1,4 +1,4 @@
-# Movie Data Analysis 
+# Movie Data Analysis 🎥⭐
 
 <div align='center'> 
     <img src="https://drive.google.com/uc?export=view&id=1JuHoyRN6z9LIs7jjkqx_GFbT-Wv1ILbQ"/>
