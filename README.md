@@ -1,4 +1,4 @@
-# Movie Data Analysis
+# Movie Data Analysis 
 
 <div align='center'> 
     <img src="https://drive.google.com/uc?export=view&id=1JuHoyRN6z9LIs7jjkqx_GFbT-Wv1ILbQ"/>
@@ -127,6 +127,10 @@ plt.xlabel('Budget')
 plt.ylabel('Gross Earnings')
 plt.show()
 ```
+<div align='center'> 
+    <img src="images/movie_corr.png"/>
+
+</div>
 
 - Heatmap of correlation matrix:
 
@@ -138,7 +142,10 @@ plt.xlabel('Movie features')
 plt.ylabel('Movie features')
 plt.show()
 ```
+<div align='center'> 
+    <img src="images/movie_hmap.png"/>
 
+</div>
 6. Correlation Analysis:
 
 - Calculate correlation between columns:
